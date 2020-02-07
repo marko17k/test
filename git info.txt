@@ -1,0 +1,24 @@
+clone - kloniras repozitorijum
+
+brench - master, develop (svoj na kom radis)
+
+commit - primenjivanje izmena
+
+push - pushovanje primenjenih commitova na brench
+
+merge - spajanje dva brencha
+
+redosled
+
+
+git add -A
+git commit -am "komentar"
+git push origin master
+
+
+
+brenchevi:
+1. MASTER
+2. DEVELOP
+
+
