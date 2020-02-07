@@ -10,10 +10,10 @@ merge - spajanje dva brencha
 
 redosled
 
-
+git status
 git add -A
 git commit -am "komentar"
-git push origin master
+git push
 
 
 
